@@ -1,0 +1,1130 @@
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 3, 4
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 3, 4
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 4, 5
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 2, 3
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 4, 5
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: [BadTruckAgent (Obj 2), BadTruckAgent (Obj 1)]
+Camiones vistos en total: 0
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 4, 5
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 4, 5
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 5, 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 3, 4
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 5, 6
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: [GoodTruckAgent (Obj 0), GoodTruckAgent (Obj 1)]
+Camiones vistos en total: 2
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 5, 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 5, 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 4, 5
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: [GoodTruckAgent (Obj 4), GoodTruckAgent (Obj 2)]
+Camiones vistos en total: 4
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 5, 6
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 6, 7
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 7, 8
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 8, 9
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 9, 10
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 10, 11
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 11, 12
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 12, 13
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 13, 14
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 14, 15
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Pagado
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 15, 16
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 16, 17
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 17, 18
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Pagado
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 18, 19
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Pagado
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Pagado
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 19, 20
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Pagado
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:3
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender GoodTruckAgent, ID:4
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:0
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:1
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender BadTruckAgent, ID:2
+ :receiver -
+ :content Estoy en 20, 21
+ :in-reply-to -
+)
+(tell
+ :sender CameraAgent, ID: 0
+ :receiver TruckModel
+ :content Camiones vistos: []
+Camiones vistos en total: 6
+ :in-reply-to -
+)
